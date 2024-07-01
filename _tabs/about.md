@@ -4,15 +4,17 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Balint Traxler
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm a software engineer based in Budapest, Hungary 🇭🇺 and I'm working as an Android Developer.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Experience
 
+I hold an MSc degree in Computer Engineering, and I've been working as an Android Developer for
+3 years.
 
-[jekyll-organization]: https://github.com/jekyll
+### My current goal
+
+I'm really interested in Kotlin based technologies, my current goal to master the language for
+many different use cases (e.g. client development, backend development, data science) and platforms
+(e.g. Android, Web, iOS, Desktop, different TV operating systems).
